@@ -4,7 +4,7 @@
 - 🧮 I am particularly interested in leveraging statistics and epidemiology to devise novel methodologies to integrate behavioral, sociocultural, and genomic data.  
 - 🖥️ Coding in Python, R, Bash, and Cpp.  
 - 👀 I’m open to conversations and collaborations.  
-- 📧 Email at [franjo@franjo.us](mailto:franjo@franjo.us)  
+- 📧 Email at [info@franjo.us](mailto:info@franjo.us)  
 - 🕸 See more at [franjo.us](https://www.franjo.us)  
 
 <!---
